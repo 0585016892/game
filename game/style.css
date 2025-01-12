@@ -96,3 +96,8 @@ button:hover {
 .shake {
     animation: shake 0.5s ease forwards;
 }
+@media (max-width: 768px) {
+    body {
+        background-image: url('./img/dt2.jpg'); /* Thay đổi hình nền cho thiết bị di động */
+    }
+}
