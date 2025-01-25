@@ -24,7 +24,7 @@ background-position: center;
 }
 
 .red-envelope {
-    margin-bottom: 20px;
+    margin-bottom: 90px;
     position: relative;
     z-index: 1; /* Bao lì xì nằm trên tờ tiền */
 }
