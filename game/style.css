@@ -52,10 +52,11 @@ button:hover {
 }
 
 .result {
-    margin-top: 20px;
+   background: #9e7070;
+    margin-top: 54px;
     font-size: 24px;
     font-weight: bold;
-    color: white;
+    color: #ffffff;
 }
 
 .money {
