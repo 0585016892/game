@@ -5,10 +5,8 @@ document.getElementById('draw-btn').addEventListener('click', function() {
             console.log('Không thể phát nhạc: ', error);
         });
     }
-    const amounts = [1000, 2000 ,5000, 10000, 20000, 50000, 100000]; // Các mệnh giá tiền
+    const amounts = [5000, 10000, 20000, 50000, 100000]; // Các mệnh giá tiền
     const images = [
-        "./img/1k.jpeg", // Thay bằng đường dẫn hình ảnh tờ tiền 5k VND
-        "./img/2k1.jpg", // Thay bằng đường dẫn hình ảnh tờ tiền 5k VND
         "./img/5k.jpg", // Thay bằng đường dẫn hình ảnh tờ tiền 5k VND
         "./img/10k.jpg", // Thay bằng đường dẫn hình ảnh tờ tiền 10k VND
         "./img/20k.jpg", // Thay bằng đường dẫn hình ảnh tờ tiền 20k VND
